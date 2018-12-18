@@ -1,0 +1,84 @@
+#out
+{
+    width: 100%;
+    height: 640px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("../Img/旅游_水.jpeg");
+    background-size: 100% 100%;
+}
+#out_top
+{
+    flex: 0.05;
+    display: flex;
+    border: 1px solid black;
+}
+#out_top1
+{
+    flex: 0.3;
+    border: 1px solid black;
+}
+#out_top2
+{
+    flex: 0.4;
+    border: 1px solid black;
+}
+#out_top3
+{
+    flex: 0.3;
+    border: 1px solid black;
+    display: flex;
+}
+#out_top3r1
+{
+    flex: 0.4;
+    border: 1px solid black;
+}
+#out_top3r2
+{
+    flex: 0.3;
+    border: 1px solid black;
+}
+#out_top3r3
+{
+    flex: 0.3;
+    border: 1px solid black;
+}
+#out_cen
+{
+    flex: 0.15;
+    border: 1px solid black;
+
+    display: flex;
+}
+#out_cen1
+{
+    flex: 0.3;
+    border: 1px solid black;
+}
+#out_cen2
+{
+    flex: 0.4;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#out_cen2 span
+{
+    font-size: 30px;
+    font-family: 新宋体;
+    font-weight: bold;
+    color: red;
+}
+#out_cen3
+{
+    flex: 0.3;
+    border: 1px solid black;
+}
+
+#out_bot
+{
+    flex: 0.8;
+    border: 1px solid black;
+}
